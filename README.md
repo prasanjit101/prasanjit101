@@ -13,18 +13,8 @@ Web Development| Data Structures | Algorithms | Blockchain | Competitive Program
 B.tech 3rd year Computer Science student in Tezpur University. I am passionate about data structures, algorithms, web development ,blockchain and Competitive programming. I also like to explore more and more, and solve problems. I like to brainstorm, discuss about mysteries, conspiracies, aliens and books.
 
 ## Skills :
-- C
-- C++
-- Python
-- Javascript
-- Node Js
-- React Js
-- Vue
-- Mongo DB
-- SQL
-- Cryptography
-- Unix
-- Operating System
+. C . C++ . Python . Javascript . Node Js . React Js
+. Vue . Mongo DB . SQL . Cryptography . Unix . Operating System
   
 ## Tools :
 - vim

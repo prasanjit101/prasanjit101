@@ -36,7 +36,7 @@ I am passionate about data structures, algorithms, web development ,blockchain a
 
 </p>
 </br>
-<a href="https://www.linkedin.com/in/prasanjit-dutta-82004b18b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Prasanjit%20Dutta-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/prasanjit-dutta-8204b18b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Prasanjit%20Dutta-blue?style=flat&logo=linkedin"></a>
 <a href="https://github.com/prasanjit101" target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-Prasanjit%20Dutta-blue?style=flat&logo=stackoverflow"></a>
 <a href="mailto:2018dib018@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-2018dib018@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>

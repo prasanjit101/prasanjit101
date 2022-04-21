@@ -10,10 +10,11 @@ I am Prasanjit Dutta
 Web Development| Data Structures | Algorithms | Blockchain | Competitive Programming
 
 ## About 
-B.tech 3rd year Computer Science student in Tezpur University. I am passionate about data structures, algorithms, web development ,blockchain and Competitive programming. I also like to explore more and more, and solve problems. I like to brainstorm, discuss about mysteries, conspiracies, aliens and books.
+I am passionate about data structures, algorithms, web development ,blockchain and Competitive programming. I also like to explore more and more, and solve problems. I like to brainstorm, discuss about mysteries, conspiracies, aliens and books.
 
 ## Skills :
 . C . C++ . Python . Javascript . Node Js . React Js
+. Express
 . Vue . Mongo DB . SQL . Cryptography . Unix . Operating System
   
 ## Tools :
@@ -21,6 +22,8 @@ B.tech 3rd year Computer Science student in Tezpur University. I am passionate a
 - VS code
 - Linux
 - Git
+- Docker
+- Truffle
 
 
 

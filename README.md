@@ -7,13 +7,13 @@ I am Prasanjit Dutta
 </div>
 
 
-Web Development| Data Structures | Algorithms | Blockchain | Competitive Programming
+Web Development| Data Structures | Algorithms | Competitive Programming
 
 ## About 
-I am passionate about data structures, algorithms, web development ,blockchain and Competitive programming. I also like to explore more and more, and solve problems. I like to brainstorm, discuss about mysteries, conspiracies, aliens and books.
+I am passionate about data structures, algorithms, web development ,bits and Competitive programming. I like to solve problems and am a explorer in the world of programming.
 
 ## Skills :
-. C . C++ . Python . Javascript . Node Js . React Js
+. C . C++ . Python . Javascript . Node Js . React Js . Next JS . Cloud Datasatore . Cloud tasks . App engine . Fast API
 . Express
 . Vue . Mongo DB . SQL . Cryptography . Unix . Operating System
   

@@ -38,7 +38,7 @@ I am passionate about data structures, algorithms, web development ,bits and Com
 </br>
 <a href="https://www.linkedin.com/in/prasanjit-dutta-8204b18b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Prasanjit%20Dutta-blue?style=flat&logo=linkedin"></a>
 <a href="https://github.com/prasanjit101" target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-Prasanjit%20Dutta-blue?style=flat&logo=stackoverflow"></a>
-<a href="mailto:2018dib018@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-2018dib018@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="mailto:rely.prasanjit@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-2018dib018@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 </br>
 
@@ -48,4 +48,4 @@ I am passionate about data structures, algorithms, web development ,bits and Com
 <img alt="Astronaut pointing downwards GIF" src="https://media.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif">
 </p>
 
-<a href="https://drive.google.com/file/d/1ouIrlb30DXvfozT520pteyaoXvkVOeD_/view?usp=sharing">Click Here</a>
+<a href="https://www.byjit.com/">Click Here</a>
